@@ -1,13 +1,23 @@
-# README.AI ↗
+<h1 align="center">README.AI — GitHub README Studio</h1>
 
-# 🚀 [OPEN LIVE SITE — README.AI Studio ↗](https://readme-ai-studio.dilangamalshan15.chatgpt.site)
+<p align="center"><strong>Your code tells a story. Give it a great introduction.</strong></p>
 
-**Public website · Open in your browser · No installation needed**
+<p align="center">
+  <a href="https://readme-ai-studio.dilangamalshan15.chatgpt.site">
+    <img src="https://img.shields.io/badge/%E2%86%97_OPEN_README_STUDIO-d6f58c?style=for-the-badge&logo=googlechrome&logoColor=1a1a1a" alt="Open README Studio" height="42">
+  </a>
+</p>
 
-**Why build alone when GPT is right there?**  
-My ideas. Built with GPT. Hosted on ChatGPT Sites.
+<h2 align="center"><a href="https://readme-ai-studio.dilangamalshan15.chatgpt.site">Explore the live README Studio ↗</a></h2>
 
-**Your code tells a story. Give it a great introduction.**
+<p align="center">Public website · Open in your browser · No installation needed</p>
+
+<hr>
+
+<h3 align="center">Why build alone when GPT is right there?</h3>
+<p align="center">My ideas. Built with GPT. Hosted on ChatGPT Sites.</p>
+
+<hr>
 
 An Angular + Python FastAPI GitHub profile README studio. Analyze real public repositories, choose a template, refine content with AI, edit Markdown with Monaco, preview it live, and explicitly review changes before publishing.
 
