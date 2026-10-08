@@ -1,5 +1,9 @@
 # README.AI ↗
 
+# 🚀 [OPEN LIVE SITE — README.AI Studio ↗](https://readme-ai-studio.dilangamalshan15.chatgpt.site)
+
+**Public website · Open in your browser · No installation needed**
+
 **Your code tells a story. Give it a great introduction.**
 
 An Angular + Python FastAPI GitHub profile README studio. Analyze real public repositories, choose a template, refine content with AI, edit Markdown with Monaco, preview it live, and explicitly review changes before publishing.
@@ -10,7 +14,7 @@ Created for **Dilanga Malshan** · [GitHub](https://github.com/Dilanga-Malshan)
 
 **[Open README.AI Studio ↗](https://readme-ai-studio.dilangamalshan15.chatgpt.site)**
 
-Use the hosted edition in your browser without Docker or local setup. Access is currently **owner-private**.
+Use the hosted edition in your browser without Docker or local setup. The website is **public** and available to anyone with the link.
 
 The hosted edition supports public GitHub analysis, six templates, Markdown editing, preview, downloads, and ChatGPT-authenticated cloud drafts. AI generation and direct GitHub publishing are not connected; use the download/upload guide.
 
