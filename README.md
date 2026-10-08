@@ -8,12 +8,24 @@ Created for **Dilanga Malshan** · [GitHub](https://github.com/Dilanga-Malshan)
 
 ## Start locally
 
+### Windows: double-click to start
+
+1. Install **Docker Desktop** and make sure it is running.
+2. [Download the project ZIP](https://github.com/Dilanga-Malshan/Readme-Ai-Studio/archive/refs/heads/main.zip) and extract it.
+3. Double-click **[start-local.bat](start-local.bat)** inside the extracted project folder.
+
+The launcher creates `.env` from `.env.example` only if it is missing, starts the Docker services, waits for the app, and opens your browser automatically. The first launch needs an internet connection and may take several minutes to build. Existing `.env` settings are preserved.
+
+**[Open Local App → http://localhost:8080](http://localhost:8080)** · **[Open API Docs → http://localhost:8000/docs](http://localhost:8000/docs)**
+
+The links open an app that is already running on your own computer. Clicking a GitHub README link cannot start a local server; use the launcher first.
+
+### Terminal startup (any OS)
+
 ```bash
 cp .env.example .env
-docker compose up --build
+docker compose -p readme-ai-studio up --build
 ```
-
-Open **http://localhost:8080**. API docs: **http://localhost:8000/docs**.
 
 No AI key is needed for factual template generation, public GitHub analysis, local editing, or downloads. OpenAI generation and rewriting require your own server-side API key and incur API usage charges. GitHub sign-in, cloud drafts, and publishing require a registered GitHub OAuth app and a Fernet encryption key.
 
