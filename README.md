@@ -6,6 +6,16 @@ An Angular + Python FastAPI GitHub profile README studio. Analyze real public re
 
 Created for **Dilanga Malshan** · [GitHub](https://github.com/Dilanga-Malshan)
 
+## Hosted app
+
+**[Open README.AI Studio ↗](https://readme-ai-studio.dilangamalshan15.chatgpt.site)**
+
+Use the hosted edition in your browser without Docker or local setup. Access is currently **owner-private**.
+
+The hosted edition supports public GitHub analysis, six templates, Markdown editing, preview, downloads, and ChatGPT-authenticated cloud drafts. AI generation and direct GitHub publishing are not connected; use the download/upload guide.
+
+This repository contains the Angular + FastAPI local edition. The hosted edition uses a Sites-compatible server and D1 storage.
+
 ## Start locally
 
 ### Windows: double-click to start
