@@ -4,6 +4,9 @@
 
 **Public website · Open in your browser · No installation needed**
 
+**Why build alone when GPT is right there?**  
+My ideas. Built with GPT. Hosted on ChatGPT Sites.
+
 **Your code tells a story. Give it a great introduction.**
 
 An Angular + Python FastAPI GitHub profile README studio. Analyze real public repositories, choose a template, refine content with AI, edit Markdown with Monaco, preview it live, and explicitly review changes before publishing.
